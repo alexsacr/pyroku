@@ -3,6 +3,15 @@ Pyroku
 
 Pyroku wraps the API provided by Roku devices to simplify its integration into your Python scripts.
 
+Installation
+____________
+
+Pyroku can be easily installed via Pip:
+
+.. code-block:: python
+
+    pip install pyroku
+
 Usage
 -----
 
